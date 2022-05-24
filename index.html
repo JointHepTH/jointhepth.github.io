@@ -16,7 +16,9 @@ title: Joint HEP-TH
   <h1> Upcoming talks: </h1>
 
   <ul class="posts">
-        <li> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% for post in site.posts %}
+      <li> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
   </ul>
 
   <!--
