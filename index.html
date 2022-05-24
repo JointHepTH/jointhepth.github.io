@@ -18,6 +18,25 @@ title: Joint HEP-TH
     <li><span>01 Oct 2011</span> &raquo; <a href="http://confreaks.com/videos/712-rubyconf2011-github-flavored-ruby">Video: RubyConf - GitHub Flavored Ruby</a></li>
     <li><span>23 Nov 2010</span> &raquo; <a href="http://vimeo.com/17118008">Video: Erlang Factory - Mastering Git Basics</a></li>
   </ul>
-
+  
+<main class="home-main">
+  <section id="posts">
+      <details {% if collection.default_open %}open{% endif %}>
+        <summary>
+          <h3 class="home-page-heading">{{ collection.title }}</h3>
+        </summary>
+        <div class="parent">
+          {% for post in collection.docs %}
+          <div class="post-wrapper">
+            <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m/%Y" }}</time>
+            <a class="post-link" href="{{ post.url }}">
+              {{ post.title }}
+            </a>
+          </div>
+          {% endfor %}
+        </div>
+      </details>
+    </section>
+ </main>
   
 </div>
