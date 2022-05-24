@@ -6,12 +6,10 @@ title: Joint HEP-TH
 <div id="home">
   <h1> Upcoming this week </h1>
    <section id="posts">
-      <details {% if collection.default_open %}open{% endif %}>
         <summary>
-          <h3 class="home-page-heading">{{ collection.title }}</h3>
+          <h3 class="home-page-heading"> Past events </h3>
         </summary>
         <div class="parent">
-          {% for post in collection.docs %}
           <div class="post-wrapper">
             <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m/%Y" }}</time>
             <a class="post-link" href="{{ post.url }}">
