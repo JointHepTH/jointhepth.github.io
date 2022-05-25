@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shuichi Yokoyama -- SL(3, Z) modularity and 4d partition functions
+title: Shuichi Yokoyama -- Special flow equation and GKP-Witten relation
 ---
 
 {{ page.title }}
