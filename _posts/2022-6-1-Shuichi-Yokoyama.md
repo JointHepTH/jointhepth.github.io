@@ -12,5 +12,5 @@ Abstract: I will speak about my recent work on a new framework for the reconstru
 
 Date & Time: 4:00 PM, June 1, 2022.
 
-Videos: [Link](https://www.bilibili.com/video/BV1V34y1L7it?share_source=copy_web)  
+Video: [Link](https://www.bilibili.com/video/BV1V34y1L7it?share_source=copy_web)  
 Slides: [Link](http://jointhepth.github.io/files/2022-6-1-Shuichi-Yokoyama.pdf)
