@@ -6,7 +6,7 @@ title: Wenli Yang -- Off-diagonal Bethe ansatz approach to quantum integrable mo
 {{ page.title }}
 ================
 
-Speaker: Wenli Yang (Sichuan U.)  
+Speaker: Wenli Yang (Xibei U.)  
 Title: Off-diagonal Bethe ansatz approach to quantum integrable models  
 Abstract: Applying the recent developed method-the off-diagonal Bethe ansatz method, we construct the exact solutions of the Heisenberg spin chain with various boundary conditions. The results allows us to calculate the boundary energy of the system in the thermodynamic limit. The method used here can be generalized to study the thermodynamic properties and boundary energy of other high rank models with non-diagonal boundary fields.  
 
