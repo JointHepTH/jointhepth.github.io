@@ -14,4 +14,4 @@ notion of shifted quantum groups and the corresponding representations. In the s
 Date & Time: 3:00 PM, Aug 17, 2022.
 
 Video: [Link](https://www.bilibili.com/video/BV1Ud4y1o7A9?share_source=copy_web&vd_source=24b177539d23769c10e3e2d6f6e5e60d)  
-Slides: [Link]()
+Slides: [Link](http://jointhepth.github.io/files/2022-8-17-Jean-Emile-Bourgine.pdf)
