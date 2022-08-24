@@ -13,4 +13,4 @@ Abstract: We study the celestial description of the O(N) sigma model in the larg
 Date & Time: 4:00 PM, Aug 17, 2022.
 
 Video: [Link](https://www.bilibili.com/video/BV1Dd4y1w7HM?share_source=copy_web&vd_source=24b177539d23769c10e3e2d6f6e5e60d)  
-Slides: [Link]
+Slides: [Link](http://jointhepth.github.io/files/2022-8-24-Jingxiang-Wu.pdf)
