@@ -12,5 +12,5 @@ Abstract: Most of the problems in physics can be summarized as follows; what hap
 
 Date & Time: 2:00 PM, Sep 7, 2022.
 
-Video: [Link]()  
-Slides: [Link]()
+Video: [Link](https://www.bilibili.com/video/BV1nd4y1X7LY?share_source=copy_web&vd_source=24b177539d23769c10e3e2d6f6e5e60d)  
+Slides: [Link](http://jointhepth.github.io/files/2022-9-7-Ken-Kikuchi.pdf)
