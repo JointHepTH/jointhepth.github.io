@@ -12,5 +12,5 @@ Abstract: Most of the problems in physics can be summarized as follows; what hap
 
 Date & Time: 2:00 PM, Sep 7, 2022.
 
-Video: [Link](https://www.bilibili.com/video/BV1Wg411S7GR?share_source=copy_web&vd_source=24b177539d23769c10e3e2d6f6e5e60d)  
-Slides: [Link](http://jointhepth.github.io/files/2022-9-2-Xin-Wang.pdf)
+Video: [Link]()  
+Slides: [Link]()
