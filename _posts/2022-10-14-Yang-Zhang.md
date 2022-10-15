@@ -13,4 +13,4 @@ Abstract:  In this talk, I introduce the application of algebraic geometry for c
 Date & Time: 3:00 PM, Oct 14, 2022.
 
 Video: [Link](https://www.bilibili.com/video/BV1ee4y1E7gk?share_source=copy_web&vd_source=24b177539d23769c10e3e2d6f6e5e60d)  
-Slides: [Link]( )
+Slides: [Link](http://jointhepth.github.io/files/2022-10-14-Yang-Zhang.pdf)
