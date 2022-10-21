@@ -13,4 +13,4 @@ Abstract: Any 2D CFT has an infinite number of commuting conserved quantities kn
 Date & Time: 3:00 PM, Oct 19, 2022.
 
 Video: [Link](https://www.bilibili.com/video/BV1z84y1z7Dh?share_source=copy_web&vd_source=2923cd18e23f9cfd0265ae363e788c67)  
-Slides: [Link](http://jointhepth.github.io/files/2022-10-14-Sataro Sugishita.pdf)
+Slides: [Link](http://jointhepth.github.io/files/2022-10-19-Sataro-Sugishita.pdf)
