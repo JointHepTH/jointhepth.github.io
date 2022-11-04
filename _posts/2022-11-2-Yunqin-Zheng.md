@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yunqin Zheng - Non-invertible Duality Defects: Lattice, Field Theory and Symmetry
+title: Yunqin Zheng - Non-invertible Duality Defects -- Lattice, Field Theory and Symmetry
 ---
 
 {{ page.title }}
