@@ -8,7 +8,8 @@ title: Yunqin Zheng - Non-invertible Duality Defects -- Lattice, Field Theory an
 
 Speaker: Yunqin Zheng (IPMU & ISSP U. Tokyo)  
 Title: Non-invertible Duality Defects: Lattice, Field Theory and Symmetry  
-Abstract: In this talk, I will begin with a brief introduction to celestial holography, before diving into some recent results on examining the BCFW recursion relations for celestial amplitudes and how they inform the celestial bootstrap program. We start by recasting the celestial incarnation of the BCFW shift as a generalization of the action of familiar asymptotic symmetries on hard particles, before focusing on two limits: large-z and infinitesimal-z. We then discuss how the celestial CFT data encodes the large-z behavior determining which shifts are allowed, while the infinitesimal limit is tied to the celestial bootstrap program via the BG equations that constrain the MHV sector.  
+Abstract: Recent years have witnessed an explosion of studies of the non-invertible symmetries in various dimensions. In this talk, I will revisit the most vanilla type of non-invertible symmetry — Kramers-Wannier duality symmetry in (1+1)d, from three different perspectives: 1. lattice; 2. field theory; 3. Symmetry TFT.   
+This talk is based on a work in collaboration with Justin Kaidi and Kantaro Ohmori [2209.11062], and an upcoming work with Linhao Li and Masaki Oshikawa.  
 
 Date & Time: 3:00 PM, Nov 2, 2022.
 
