@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Go Noshita - Love Numbers From Amplitudes
+title: Zihan Zhou - Love Numbers From Amplitudes
 ---
 
 {{ page.title }}
