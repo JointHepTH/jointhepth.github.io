@@ -13,4 +13,4 @@ Abstract: In this talk, I will extract the black hole (BH) static tidal deformab
 Date & Time: 10:00 AM, Nov 30, 2022.
 
 Video: [Link](https://www.bilibili.com/video/BV1S14y1n7MJ/?share_source=copy_web&vd_source=2923cd18e23f9cfd0265ae363e788c67)  
-Slides: [Link]( )
+Slides: [Link](http://jointhepth.github.io/files/2022-11-30-Zihan-Zhou.pdf)
