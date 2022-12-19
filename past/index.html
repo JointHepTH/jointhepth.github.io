@@ -14,10 +14,12 @@ title: Joint HEP-TH
     
     <details>
       <summary> 2022 </summary>
-      {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
-      {% if year == "2022" %}
-      <li> <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-      {% endif %}
+      {% for post in site.posts %}
+        {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
+        {% if year == "2022" %}
+        <li> <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endif %}
+      {% endfor %}
     </details>
 
   </ul>
