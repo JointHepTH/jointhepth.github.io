@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zhihao Duan - Towards a classification of fermionic rational conformal field theories
+title: Zhihao Duan -- Towards a classification of fermionic rational conformal field theories
 ---
 
 {{ page.title }}
