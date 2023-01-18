@@ -13,4 +13,4 @@ Abstract: With the advancement of quantum computing technologies, quantum simula
 Date & Time: 3:00 PM, Jan 18, 2023.
 
 Video: [Link](https://www.bilibili.com/video/BV1eG4y1w7ZC/?share_source=copy_web&vd_source=2923cd18e23f9cfd0265ae363e788c67)  
-Slides: [Link]( )
+Slides: [Link](http://jointhepth.github.io/files/2023-1-18-Takuya-Okuda.pdf )
