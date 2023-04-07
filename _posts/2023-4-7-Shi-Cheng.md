@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shi Cheng -- 3d N=2 theories and plumbing graphs &#58; matter, gauging and dualities
+title: Shi Cheng -- 3d N=2 theories and plumbing graphs&#58; matter, gauging and dualities
 ---
 
 {{ page.title }}
