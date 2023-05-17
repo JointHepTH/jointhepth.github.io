@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wenliang Li -- How to get something from nothing: null state, bootstrap and Dyson-Schwinger
+title: Wenliang Li -- How to get something from nothing&#58; null state, bootstrap and Dyson-Schwinger
 ---
 
 {{ page.title }}
