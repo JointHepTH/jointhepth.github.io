@@ -13,4 +13,4 @@ Abstract: I will start with a brief overview of the 2D minimial model CFTs, the 
 Date & Time: 3:00 PM, May 17, 2023.  
 
 Video: [Link](https://www.bilibili.com/video/BV12m4y1b7FK/?share_source=copy_web&vd_source=2923cd18e23f9cfd0265ae363e788c67)  
-Slides: [Link]( )
+Slides: [Link](http://jointhepth.github.io/files/2023-5-17-Wenliang-Li.pdf)
