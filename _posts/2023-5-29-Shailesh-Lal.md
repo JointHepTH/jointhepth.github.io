@@ -8,7 +8,7 @@ title: Shailesh Lal -- A Neural Networks Solver for R Matrices
 
 Speaker: Shailesh Lal (BIMSA)  
 Title:  A Neural Networks Solver for R Matrices  
-Abstract: we describe how neural networks may be used to learn solutions to the Yang-Baxter Equation using 2d spin chains of difference form as a concrete example. the talk is based on arxiv:2304.07247, which is joint work with Suvajit Majumder and Evgeny Skvortsov.       
+Abstract: We describe how neural networks may be used to learn solutions to the Yang-Baxter Equation using 2d spin chains of difference form as a concrete example. the talk is based on arxiv:2304.07247, which is joint work with Suvajit Majumder and Evgeny Skvortsov.       
 
 Date & Time: 10:00 AM, May 29, 2023.  
 
