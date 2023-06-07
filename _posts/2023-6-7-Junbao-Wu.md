@@ -11,5 +11,5 @@ Title:  In this paper we study the correlation function of a single trace operat
 
 Date & Time: 4:00 PM, Jun 7, 2023.  
 
-Video: [Link]( )  
-Slides: [Link]( )
+Video: [Link](https://www.bilibili.com/video/BV18o4y1T7yS/?share_source=copy_web&vd_source=2923cd18e23f9cfd0265ae363e788c67)  
+Slides: [Link](http://jointhepth.github.io/files/2023-6-7-Junbao-Wu.pdf)
