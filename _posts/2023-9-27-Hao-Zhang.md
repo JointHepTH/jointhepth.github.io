@@ -13,4 +13,4 @@ Abstract: Non-invertible symmetry is a type of symmetry that does not obey any g
 Date & Time: 3:00 PM, Sep 27, 2023.  
 
 Video: [Link]( https://www.bilibili.com/video/BV1eH4y1U7pY )  
-Slides: [Link]( )
+Slides: [Link]( http://jointhepth.github.io/files/2023-9-27-Hao-Zhang.pdf)
