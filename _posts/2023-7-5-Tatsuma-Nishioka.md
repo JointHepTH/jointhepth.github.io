@@ -13,4 +13,3 @@ Abstract:We construct a discrete subset of Narain CFTs from quantum stabilizer c
 Date & Time: 1:00 PM, Jul 5, 2023.  
 
 Video: [Link](https://www.bilibili.com/video/BV1ZM4y1L75b/?share_source=copy_web&vd_source=2923cd18e23f9cfd0265ae363e788c67)  
-Slides: [Link]( )

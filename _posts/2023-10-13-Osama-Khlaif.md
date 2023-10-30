@@ -14,4 +14,3 @@ Abstract: In this talk I will revisit the correspondence between 3d $\mathcal{N}
 Date & Time: 4:00 PM, Oct 13, 2023.  
 
 Video: [Link]( https://www.bilibili.com/video/BV1f84y117qJ/ )  
-Slides: [Link]( )

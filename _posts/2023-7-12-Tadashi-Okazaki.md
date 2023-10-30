@@ -13,4 +13,3 @@ Abstract: We study the exact closed-form expressions for the Schur indices and c
 Date & Time: 3:00 PM, Jul 12, 2023.  
 
 Video: [Link](https://www.bilibili.com/video/BV1fM4y1j7vc/?share_source=copy_web&vd_source=2923cd18e23f9cfd0265ae363e788c67)  
-Slides: [Link]( )

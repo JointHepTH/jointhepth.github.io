@@ -13,4 +13,3 @@ Abstract: There are two major ways of constructing 4d N = 2 superconformal field
 Date & Time: 3:00 PM, Mar 1, 2023.
 
 Video: [Link](https://www.bilibili.com/video/BV1Gj41137Zy/?share_source=copy_web&vd_source=24b177539d23769c10e3e2d6f6e5e60d)  
-Slides: [Link]( )

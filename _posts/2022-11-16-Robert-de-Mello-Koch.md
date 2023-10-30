@@ -13,4 +13,3 @@ Abstract: The principle of the holography of information states that in a theory
 Date & Time: 3:00 PM, Nov 16, 2022.
 
 Video: [Link](https://www.bilibili.com/video/BV1S8411j7ed/?share_source=copy_web&vd_source=2923cd18e23f9cfd0265ae363e788c67)  
-Slides: [Link]( )

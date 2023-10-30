@@ -14,4 +14,3 @@ Abstract: The Coulomb branch of four-dimensional N=2 supersymmetric gauge theory
 Date & Time: 4:00 PM, Oct 18, 2023.  
 
 Video: [Link]( )  
-Slides: [Link]( )

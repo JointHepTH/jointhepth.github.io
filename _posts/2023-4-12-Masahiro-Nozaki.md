@@ -13,4 +13,3 @@ Abstract: We study the dynamics of mutual information during the evolution induc
 Date & Time: 3:00 PM, Apr 12, 2023.  
 
 Video: [Link](https://www.bilibili.com/video/BV1gs4y1P7pe/?share_source=copy_web&vd_source=24b177539d23769c10e3e2d6f6e5e60d)  
-Slides: [Link]( )

@@ -13,4 +13,3 @@ Abstract: Via the AdS/CFT correspondence, I discuss the gravity dual description
 Date & Time: 3:00 PM, Jun 2, 2023.  
 
 Video: [Link](https://www.bilibili.com/video/BV1Fh411F7gp/?share_source=copy_web&vd_source=24b177539d23769c10e3e2d6f6e5e60d)  
-Slides: [Link]( )

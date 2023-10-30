@@ -13,4 +13,3 @@ Abstract: AGT conjecture reveals a connection between 4D N=2 gauge theory and 2D
 Date & Time: 3:00 PM, Sep 20, 2023.  
 
 Video: [Link]( https://www.bilibili.com/video/BV1pu411g7Uj )  
-Slides: [Link]( )

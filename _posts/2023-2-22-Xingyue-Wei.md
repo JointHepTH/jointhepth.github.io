@@ -13,4 +13,3 @@ Abstract: Trivalent/quadrivalent gluing is a newly developed method to construct
 Date & Time: 3:00 PM, Feb 22, 2023.
 
 Video: [Link](https://www.bilibili.com/video/BV1AM411w7jE/?share_source=copy_web&vd_source=24b177539d23769c10e3e2d6f6e5e60d)  
-Slides: [Link]( )

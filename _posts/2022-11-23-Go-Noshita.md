@@ -15,4 +15,3 @@ The existence of the AGT correspondence of the theories we studied implies that 
 Date & Time: 3:00 PM, Nov 23, 2022.
 
 Video: [Link](https://www.bilibili.com/video/BV1Q24y117eJ/?share_source=copy_web&vd_source=2923cd18e23f9cfd0265ae363e788c67)  
-Slides: [Link]( )

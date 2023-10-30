@@ -13,4 +13,3 @@ Abstract: In this talk, I will report our upcoming work on celestial primary con
 Date & Time: 3:00 PM, May 24, 2023.  
 
 Video: [Link](https://www.bilibili.com/video/BV1Mh4y147eQ/?share_source=copy_web&vd_source=24b177539d23769c10e3e2d6f6e5e60d)  
-Slides: [Link]( )

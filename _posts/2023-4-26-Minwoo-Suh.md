@@ -13,4 +13,3 @@ Abstract: Recently, we have observed construction of new supersymmetric AdS solu
 Date & Time: 3:00 PM, Apr 26, 2023.  
 
 Video: [Link](https://www.bilibili.com/video/BV1Ga4y1V7FZ/?share_source=copy_web&vd_source=24b177539d23769c10e3e2d6f6e5e60d)  
-Slides: [Link]( )

@@ -13,4 +13,3 @@ Abstract:  The physics of M5 branes on an A or D-type ALE singularity exhibits a
 Date & Time: 3:00 PM, Sep 14, 2022.
 
 Video: [Link](https://www.bilibili.com/video/BV1tB4y177Ma?share_source=copy_web&vd_source=24b177539d23769c10e3e2d6f6e5e60d)  
-Slides: [Link]( )

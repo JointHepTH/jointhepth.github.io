@@ -12,5 +12,4 @@ Abstract: The (emergent) conformal symmetry plays an essential role in finding t
 
 Date & Time: 3:00 PM, Mar 8, 2023.
 
-Video: [Link]( )  
-Slides: [Link]( )
+No video recording.
