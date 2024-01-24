@@ -12,5 +12,5 @@ Abstract: I will talk about the generalized TTbar-deformation for classical free
 
 Date & Time: 3:00 PM, Jan 17, 2024.  
 
-Video: [Link]( https://www.bilibili.com/video/BV1yc411s7MH )
+Video: [Link]( https://www.bilibili.com/video/BV1yc411s7MH )   
 Slides: [Link]( http://jointhepth.github.io/files/2024-1-17-Takato-Yoshimura.pdf)
