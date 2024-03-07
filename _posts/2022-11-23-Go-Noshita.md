@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Go Noshita - 5d AGT correspondence of supergroup gauge theories from quantum toroidal gl_1
+title: Go Noshita -- 5d AGT correspondence of supergroup gauge theories from quantum toroidal gl_1
 ---
 
 {{ page.title }}

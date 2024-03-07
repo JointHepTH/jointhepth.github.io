@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Peihe Yang - Integrable three-point functions in ABJM theory
+title: Peihe Yang -- Integrable three-point functions in ABJM theory
 ---
 
 {{ page.title }}

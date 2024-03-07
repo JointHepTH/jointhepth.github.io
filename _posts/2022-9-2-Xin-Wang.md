@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Xin Wang - Wilson Loops and Topological Strings
+title: Xin Wang -- Wilson Loops and Topological Strings
 ---
 
 {{ page.title }}

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Marcus Sperling - Magnetic quivers, Higgs branches, and 6d N=(1,0) theories
+title: Marcus Sperling -- Magnetic quivers, Higgs branches, and 6d N=(1,0) theories
 ---
 
 {{ page.title }}

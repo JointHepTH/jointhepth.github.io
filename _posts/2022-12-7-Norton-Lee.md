@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Norton Lee - Defect in Gauge Theory and Quantum Hall States
+title: Norton Lee -- Defect in Gauge Theory and Quantum Hall States
 ---
 
 {{ page.title }}

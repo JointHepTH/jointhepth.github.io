@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jingxiang Wu - Resonances and unitarity from celestial amplitude
+title: Jingxiang Wu -- Resonances and unitarity from celestial amplitude
 ---
 
 {{ page.title }}

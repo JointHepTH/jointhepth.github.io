@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ken Kikuchi - Emergent symmetry and free energy
+title: Ken Kikuchi -- Emergent symmetry and free energy
 ---
 
 {{ page.title }}

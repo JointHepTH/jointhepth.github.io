@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jean-Emile Bourgine - Shifted quantum groups and matter multiplets in SUSY gauge theories
+title: Jean-Emile Bourgine -- Shifted quantum groups and matter multiplets in SUSY gauge theories
 ---
 
 {{ page.title }}

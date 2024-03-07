@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zihan Zhou - Love Numbers From Amplitudes
+title: Zihan Zhou -- Love Numbers From Amplitudes
 ---
 
 {{ page.title }}

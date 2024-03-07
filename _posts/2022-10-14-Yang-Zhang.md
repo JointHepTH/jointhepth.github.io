@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yang Zhang - Using Algebraic Geometry in Theoretical Physics
+title: Yang Zhang -- Using Algebraic Geometry in Theoretical Physics
 ---
 
 {{ page.title }}

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ed Barnes - Preparing Bethe ansatz states and other interesting many-body states on a quantum computer
+title: Ed Barnes -- Preparing Bethe ansatz states and other interesting many-body states on a quantum computer
 ---
 
 {{ page.title }}

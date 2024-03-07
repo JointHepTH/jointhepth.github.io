@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Takuya Katagiri - Ladder operators and quasinormal modes in Banados-Teitelboim-Zanelli black holes
+title: Takuya Katagiri -- Ladder operators and quasinormal modes in Banados-Teitelboim-Zanelli black holes
 ---
 
 {{ page.title }}

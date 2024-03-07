@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Robert de Mello Koch - Holography of Information in AdS/CFT
+title: Robert de Mello Koch -- Holography of Information in AdS/CFT
 ---
 
 {{ page.title }}

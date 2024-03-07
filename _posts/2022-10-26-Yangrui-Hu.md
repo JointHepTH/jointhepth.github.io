@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yangrui Hu - Celestial Recursion
+title: Yangrui Hu -- Celestial Recursion
 ---
 
 {{ page.title }}

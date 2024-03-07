@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Satoshi Nawata - Understanding DAHA from physics
+title: Satoshi Nawata -- Understanding DAHA from physics
 ---
 
 {{ page.title }}

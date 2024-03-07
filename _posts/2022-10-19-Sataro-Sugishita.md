@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sataro Sugishita - Spectrum of quantum KdV hierarchy in the semiclassical limit
+title: Sataro Sugishita -- Spectrum of quantum KdV hierarchy in the semiclassical limit
 ---
 
 {{ page.title }}
