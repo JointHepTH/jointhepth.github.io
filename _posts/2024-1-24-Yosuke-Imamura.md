@@ -13,4 +13,4 @@ Abstract: We study giant graviton expansions of the superconformal index of 4d s
 Date & Time: 3:00 PM, Jan 24, 2024.  
 
 Video: [Link]( https://www.bilibili.com/video/BV13w411j7mT)   
-Slides: [Link]( http://jointhepth.github.io/files/2024-1-17-Yosuke-Imamura.pdf)
+Slides: [Link]( http://jointhepth.github.io/files/2024-1-24-Yosuke-Imamura.pdf)
